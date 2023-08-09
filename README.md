@@ -33,8 +33,6 @@ So, we need to allow user to find 13-character word with 10-character query, but
 same we may also need to find 7-character word. Maybe some kind of result postprocessing
 is required here but I didn't do it in this homework.
 
-Maybe
-
 ```sh
 poetry run python query.py caterpilrin  # caterpillar with typos
 
