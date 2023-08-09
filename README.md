@@ -4,6 +4,12 @@ Create ES index that will serve autocomplete needs with leveraging typos and err
 
 ## Usage
 
+### Clone
+
+```sh
+git lfs clone origin git@github.com:obaltian/hsa-hw-11-elasticsearch-with-typos.git
+```
+
 ### Prepare index
 
 ```sh
