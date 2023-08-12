@@ -17,6 +17,8 @@ docker-compose up -d
 
 # install poetry
 curl -sSL https://install.python-poetry.org | python3 -
+poetry install
+
 
 # OPTIONAL – index is in repo; fill index with english words (237K)
 ./delete.sh && poetry run python index.py
